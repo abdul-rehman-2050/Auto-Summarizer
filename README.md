@@ -2,6 +2,12 @@
 Python based Text summarization 
 
 
+# Steps
+
+## Scrap Article from Wikipedia
+## Get text from formated HTML
+## Format Article
+## Break text into sentences
 
 
 
